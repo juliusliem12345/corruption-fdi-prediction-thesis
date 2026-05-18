@@ -1,0 +1,13 @@
+dataset,variable,VIF
+WGI controls maximum sample,control_of_corruption_inverted,1.9657827362433513
+WGI controls maximum sample,gdp_per_capita,3.156846383946707
+WGI controls maximum sample,inflation,1.1169277014082886
+WGI controls maximum sample,trade_openness,2.041238844713858
+WGI controls matched sample,control_of_corruption_inverted,1.7373132199338865
+WGI controls matched sample,gdp_per_capita,3.0790671926049518
+WGI controls matched sample,inflation,1.0460020811293076
+WGI controls matched sample,trade_openness,2.1157026586403
+WVS controls sample,corr_proxy_std,1.3527419177059097
+WVS controls sample,gdp_per_capita,2.4493097650908586
+WVS controls sample,inflation,1.0242185820529595
+WVS controls sample,trade_openness,1.994640055381175

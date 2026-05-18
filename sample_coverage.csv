@@ -1,0 +1,9 @@
+Specification,Controls,Sample,Country-year observations,Countries
+WGI,No,Maximum,4937,198
+WVS,No,Maximum,103,74
+WGI,Yes,Maximum,4009,174
+WVS,Yes,Maximum,96,69
+WGI,No,Matched,103,74
+WVS,No,Matched,103,74
+WGI,Yes,Matched,96,69
+WVS,Yes,Matched,96,69
